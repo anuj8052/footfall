@@ -1,0 +1,6 @@
+# python==3.10
+opencv-python==4.10.0.82
+ultralytics==8.2.30
+pyresearch==1.2
+filterpy==1.4.5
+scikit-image==0.23.2
